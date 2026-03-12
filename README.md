@@ -24,7 +24,6 @@ interview-question-generator
 │
 ├── interview_question_generator_gui.py
 ├── generated_questions.txt
-├── screenshot.png
 └── README.md
 ```
 
