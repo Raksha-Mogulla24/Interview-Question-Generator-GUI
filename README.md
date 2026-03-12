@@ -48,12 +48,6 @@ cd interview-question-generator
 python interview_question_generator_gui.py
 ```
 
-## Application Preview
-
-(Add your screenshot here)
-
-![Interview Question Generator GUI](screenshot.png)
-
 ## Future Improvements
 
 * Add more interview topics
